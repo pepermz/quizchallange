@@ -216,6 +216,7 @@ html {
     color: #fff;
     background-color: black;
     cursor: pointer;
+    border-radius: 5px;
 }
 .highscores h1{
     width: 100%;
@@ -228,4 +229,5 @@ html {
 #save-score{
     border: 1px solid rgba(0,0,0,.5);
     width: fit-content;
+    cursor: pointer;
 }
